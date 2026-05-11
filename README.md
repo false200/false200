@@ -11,12 +11,6 @@ I am also an <strong>Open Source Contributor</strong>, actively contributing to 
 In addition, I am an <strong>active competitive programmer</strong>, regularly solving challenges on <strong>LeetCode</strong> and <strong>Codeforces</strong> to sharpen my problem-solving and algorithms skills.
 </p>
 
-<h3 align="left">Open Source Contributions:</h3>
-<ul>
-  <li>Contributed to <a href="https://github.com/numpy/numpy/pull/30422" target="_blank">NumPy</a></li>
-  <li>Contributed to <a href="https://github.com/simstudioai/sim/pull/2426" target="_blank">SimStudio AI</a></li>
-</ul>
-
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
