@@ -22,3 +22,8 @@ In addition, I am an <strong>active competitive programmer</strong>, regularly s
   <a href="https://leetcode.com/u/BrokeGuy/" target="_blank">LeetCode</a> | 
   <a href="https://codeforces.com/profile/BrokeGuy" target="_blank">Codeforces</a>
 </p>
+
+<h3 align="left">Connect with Me:</h3>
+<p align="left">
+  Discord: <strong>felix._404</strong>
+</p>
