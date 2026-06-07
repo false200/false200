@@ -1,12 +1,12 @@
 <h1 align="center">Hey 👋</h1>
-<h3 align="center">Blockchain Engineer | AI/ML Engineer | Software Engineer</h3>
+<h3 align="center">Blockchain Enthusiast | AI & Machine Learning | SWE</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codeloopdroid&label=Profile%20views&color=0e75b6&style=flat" alt="codeloopdroid" /> </p>
 
 <h3 align="left">About Me:</h3>
 <p align="left">
-I build at the intersection of <strong>Blockchain</strong>, <strong>AI/ML</strong>, and <strong>Software Engineering</strong>.
-I love shipping smart, scalable solutions using <strong>Python</strong>, <strong>Go</strong>, <strong>Java</strong>, and <strong>C++</strong>.
+I am passionate about <strong>Blockchain</strong>, <strong>AI/ML</strong>, and <strong>Software Development</strong>.
+I love building smart solutions using <strong>Python</strong>, <strong>Go</strong>, <strong>Java</strong>, and <strong>C++</strong>.
 I am also an <strong>Open Source Contributor</strong>, actively contributing to projects that solve real-world problems.
 In addition, I am an <strong>active competitive programmer</strong>, regularly solving challenges on <strong>LeetCode</strong> and <strong>Codeforces</strong> to sharpen my problem-solving and algorithms skills.
 </p>
