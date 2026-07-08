@@ -6,7 +6,7 @@
 
 ---
 
-<h3 align="left">📊 GitHub Stats</h3>
+<h3 align="left"> GitHub Stats</h3>
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api/?username=false200&show_icons=true&theme=dark&show=prs_merged,prs_merged_percentage&include_all_commits=true&hide_title=true" alt="GitHub Stats" />
@@ -15,7 +15,7 @@
 
 ---
 
-<h3 align="left">🔀 Recent Merged PRs</h3>
+<h3 align="left"> Recent Merged PRs</h3>
 
 <p align="center">
   <img src="https://github-pr-stats-five.vercel.app/api/github-pr-stats?username=false200&status=merged&limit=10" alt="Merged PRs" />
