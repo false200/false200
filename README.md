@@ -10,7 +10,6 @@
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api/?username=false200&show_icons=true&theme=dark&show=prs_merged,prs_merged_percentage&include_all_commits=true&hide_title=true" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=false200&theme=dark&hide_border=true" alt="Streak" />
 </p>
 
 ---
