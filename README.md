@@ -18,7 +18,7 @@
 <h3 align="left">🔀 Recent Merged PRs</h3>
 
 <p align="center">
-  <img src="https://github-pr-stats-five.vercel.app/api/github-pr-stats?username=false200&status=merged&limit=5" alt="Merged PRs" />
+  <img src="https://github-pr-stats-five.vercel.app/api/github-pr-stats?username=false200&status=merged&limit=10" alt="Merged PRs" />
 </p>
 
 ---
