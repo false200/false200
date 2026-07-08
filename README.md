@@ -1,16 +1,16 @@
 <h3 align="center">Blockchain Enthusiast | AI & Machine Learning | SWE</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=codeloopdroid&label=Profile%20views&color=0e75b6&style=flat" alt="false200" />
+  <img src="https://komarev.com/ghpvc/?username=false200&label=Profile%20views&color=0e75b6&style=flat" alt="false200" />
 </p>
 
 ---
 
 <h3 align="left">📊 GitHub Stats</h3>
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api/?username=false200&show_icons=true&theme=dark&show=prs_merged,prs_merged_percentage&include_all_commits=true&custom_title=GitHub%20Stats)
+![GitHub Stats](https://github-stats-extended.vercel.app/api/?username=false200&show_icons=true&theme=dark&show=prs_merged,prs_merged_percentage&include_all_commits=true&hide_title=true)
 
-![Activity](https://github-readme-activity-graph.vercel.app/graph?username=false200&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph)
+![Activity](https://github-readme-activity-graph.vercel.app/graph?username=false200&theme=react-dark&hide_border=true&area=true)
 
 ---
 
