@@ -14,8 +14,6 @@
 
 ![Streak](https://streak-stats.demolab.com/?user=false200&theme=dark&hide_border=true)
 
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=false200&layout=compact&theme=dark&hide_border=true)
-
 ---
 
 <h3 align="left">🔀 Recent Merged PRs</h3>
