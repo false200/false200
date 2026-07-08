@@ -8,7 +8,7 @@
 
 <h3 align="left">📊 GitHub Stats</h3>
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api/?username=false200&show_icons=true&theme=dark&show=prs_merged,prs_merged_percentage&include_all_commits=true&custom_title=false200's%20GitHub%20Stats)
+![GitHub Stats](https://github-stats-extended.vercel.app/api/?username=false200&show_icons=true&theme=dark&show=prs_merged,prs_merged_percentage&include_all_commits=true&custom_title=GitHub%20Stats)
 
 ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=false200&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph)
 
