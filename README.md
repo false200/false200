@@ -10,7 +10,7 @@
 
 ![GitHub Stats](https://github-stats-extended.vercel.app/api/?username=false200&show_icons=true&theme=dark&show=prs_merged,prs_merged_percentage&include_all_commits=true)
 
-![Activity](https://github-readme-activity-graph.vercel.app/graph?username=false200&theme=react-dark)
+![Activity](https://github-readme-activity-graph.vercel.app/graph?username=false200&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph)
 
 ---
 
