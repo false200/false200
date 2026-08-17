@@ -15,3 +15,5 @@ Blockchain · AI & Machine Learning · SWE
 <p align="center">
   <img src="https://github-pr-stats-five.vercel.app/api/github-pr-stats?username=false200&status=merged&limit=5" alt="Merged PRs" />
 </p> -->
+
+<div><a href="https://cloud.layer5.io/user/6a9f8912-31ae-4bc9-a385-de275f0e7272?tab=badges&badge=first-design" alt="First Design" ><img width="175px" height="252px" src="https://badges.layer5.io/assets/badges/first-design/first-design.png" alt="First Design" /></a><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup><a href="https://badges.layer5.io">Get your own badge</a></sup></div>
