@@ -4,7 +4,7 @@ Blockchain · AI & Machine Learning · SWE
 
 Data Science sophomore, mostly building, breaking, and figuring things out.
 
-Any startup founders who somehow ended up here, have a look around. If you're building something in AI or data and need someone hungry to work on it, hit me up.
+If you’re a startup founder and have any AI, ML, or Data Science internship opportunities, have a look around my profile and hit me up.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-BrokeGuy-orange?style=flat-square\&logo=leetcode\&logoColor=white)](https://leetcode.com/u/BrokeGuy/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-BrokeGuy-blue?style=flat-square\&logo=codeforces\&logoColor=white)](https://codeforces.com/profile/BrokeGuy)
@@ -13,9 +13,3 @@ Any startup founders who somehow ended up here, have a look around. If you're bu
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=codeloopdroid&label=Profile%20views&color=0e75b6&style=flat" alt="false200" />
 </p>
-
-<!-- <h3 align="left"> Recent Merged PRs</h3>
-
-<p align="center">
-  <img src="https://github-pr-stats-five.vercel.app/api/github-pr-stats?username=false200&status=merged&limit=5" alt="Merged PRs" />
-</p> -->
