@@ -4,7 +4,7 @@ Interested in Software Engineering · AI/ML · Blockchain
 
 Data Science sophomore who likes building things, breaking them, and figuring out how they work.
 
-I work mostly with **Python, Go, JavaScript, and Scala**, with interests across backend development, machine learning, distributed systems, and open source.
+I work mostly with **Python, Go, JavaScript, and Scala**, mainly around **AI/ML, Generative AI, and software development**.
 
 Currently learning, contributing, and building along the way.
 
