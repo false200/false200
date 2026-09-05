@@ -1,6 +1,6 @@
 ### << . . >>
 
-Software Engineering · AI/ML · Blockchain
+Interested in Software Engineering · AI/ML · Blockchain
 
 Data Science sophomore who likes building things, breaking them, and figuring out how they work.
 
