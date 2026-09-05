@@ -1,4 +1,4 @@
-### << . . >>
+### {..}
 
 Interested in Software Engineering · AI/ML · Blockchain
 
