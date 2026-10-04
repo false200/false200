@@ -12,6 +12,4 @@ Currently learning, contributing, and building along the way.
 [![Codeforces](https://img.shields.io/badge/Codeforces-BrokeGuy-blue?style=flat-square\&logo=codeforces\&logoColor=white)](https://codeforces.com/profile/BrokeGuy)
 [![GitHub](https://img.shields.io/badge/GitHub-false200-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/false200)
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=codeloopdroid&label=Profile%20views&color=0e75b6&style=flat" alt="false200" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=false200&label=Profile%20views&color=0e75b6&style=flat)
